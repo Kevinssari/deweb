@@ -1,0 +1,24 @@
+#border-top{
+    border-top-width: 4px;
+    border-top-style: solid;
+    border-top-color: #FF0000;
+    background-color: #FFE4E1;
+    text-align: center;
+  }
+.propiedades{
+    border-top-width: 4px;
+    border-top-style: dashed;
+    border-top-color: #0000FF;
+    background-color: #87CEFA; 
+    height: 100px;
+    width: 180px;
+    font-weight: bold;
+}
+#border-boton{
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+    border-bottom-color: #000000;
+    background-color: #FFE4E1; 
+    height: 100px;
+    width: 250px;
+}

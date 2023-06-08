@@ -1,0 +1,15 @@
+body{
+    background-color: #9ACD32;
+}
+h1{
+    color: #FFFF00;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: underline; 
+}
+p{
+    color: #FFFFF0;
+    font-family: Verdana;
+    text-align: justify;
+}

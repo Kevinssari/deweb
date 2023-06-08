@@ -1,0 +1,20 @@
+
+        /*selector{ propiedad:valor;  }*/
+p{
+color: red;
+}
+h1{
+color: blue;
+text-decoration-line: underline;
+text-align: center;
+}
+.letra{
+color:#00FF00;
+font-weight: bold;
+font-size: 40px
+}
+.letra2{
+color:#000080;
+font-weight: bold;
+font-size: 20px
+ }
