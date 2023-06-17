@@ -1,0 +1,10 @@
+#recuadro1{
+    border-radius: 20px;
+    background-color: #ddd;
+    width: 200px;
+    padding: 10px;
+  }
+  body{
+    background: white;
+    margin: 50px;
+  }
