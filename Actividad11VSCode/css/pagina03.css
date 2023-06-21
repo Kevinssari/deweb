@@ -1,0 +1,20 @@
+#recuadro1{
+    transform: scale(0.8,1.2);
+    border-radius: 20px;
+    background-color: #ddd;
+    width: 300px;
+    padding: 10px;
+}
+#recuadro2{
+    transform: scale(1.20, -1);
+    border-radius: 20px 40px 40px 20px;
+    background-color: #ddd;
+    width: 200px;
+    padding: 10px;
+    margin: 20px;
+    margin-top: 80px;
+}
+body{
+    background: white;
+    margin: 20px;
+}

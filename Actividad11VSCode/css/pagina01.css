@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+#recuadro1{
+    border-radius: 20px;
+    background-color: #ddd;
+    width:200px;
+    padding:10px;
+    transform: translate(25px,10px);
+}
+#recuadro2{
+    border-radius: 20px;
+    background-color: #aa0;
+    width: 200px;
+    padding: 10px;
+    margin-top: 50px;
+}
+body{
+    background: white;
+    margin: 50px;
+}

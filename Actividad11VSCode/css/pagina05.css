@@ -1,0 +1,32 @@
+#recuadro1{
+    transform: rotate(10deg);
+    text-align: justify;
+    padding: 10px;
+    transform-origin:left top;
+    border-radius: 20px;
+    background-color: #ddd;
+    width: 200px;
+    margin-top: 50px;
+}
+#recuadro2{
+    transform: rotate(10deg);
+    transform-origin:0%, 50%;
+    border-radius: 20px;
+    background-color: #ddd;
+    width: 200px;
+    padding: 10px;
+    margin-top: 50px;
+}
+#recuadro3{
+    transform: rotate(10deg);
+    transform-origin:20px, 40px;
+    border-radius: 20px;
+    background-color: #ddd;
+    width: 200px;
+    padding: 10px;
+    margin-top: 50px;
+}
+body{
+    background: white;
+    margin:50px;
+}

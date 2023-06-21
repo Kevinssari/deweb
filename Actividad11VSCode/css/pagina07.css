@@ -1,0 +1,53 @@
+#recuadro1{
+    background-color: black;
+    opacity: 0.3;
+    color: #f00;
+    width: 700px;
+    height: 450px;
+    border-radius: 15px;
+    font-size: 30px;
+}
+#recuadro2{
+    background-color: black;
+    opacity: 0.6;
+    color: #f00;
+    width: 700px;
+    height: 450px;
+    border-radius: 15px;
+    font-size: 30px;
+}
+#recuadro3{
+    background-color: black;
+    opacity: 0.9;
+    color: #f00;
+    width: 700px;
+    height: 450px;
+    border-radius: 15px;
+    font-size: 30px;
+}
+#recuadro4{
+    background-color: black;
+    color: #f00;
+    width: 700px;
+    height: 450px;
+    border-radius: 15px;
+    font-size: 30px;
+}
+#recuadro5{
+    background-color: black;
+    color: #f00;
+    width: 700px;
+    height: 450px;
+    border-radius: 15px;
+    font-size: 30px;
+}
+.texto4{
+    background-color: yellow;
+}
+.texto5{
+    background-color: yellow;
+}
+body{
+    background: white;
+    margin: 50px;
+}
