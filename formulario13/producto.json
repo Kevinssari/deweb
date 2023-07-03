@@ -1,0 +1,122 @@
+[
+    {
+        "marca": "adidas",
+        "modelo": "STAN SMITH",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f86168171d2a4644a8eeac1e00f52f85_9366/Zapatillas_Stan_Smith_Blanco_FX5502_04_standard.jpg",
+        "precio": 359
+    },
+    {
+        "marca": "adidas",
+        "modelo": "Y-3 AJATU COURT LOW",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7ebf1720d3f343e69fd9aecc01399b2c_9366/Y-3_AJATU_COURT_LOW_Negro_HQ5964_04_standard.jpg",
+        "precio": 1199
+    },
+    {
+        "marca": "adidas",
+        "modelo": "SAMBA OG",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5ec3dbc8ed4e4d958b0faedf00fd3bb1_9366/Zapatillas_Samba_OG_Blanco_HP7904_01_standard.jpg",
+        "precio": 299
+    },
+    {
+        "marca": "adidas",
+        "modelo": "STAN SMITH RECON",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a6fb6634be25426b9cb0af5700b58615_9366/Zapatillas_Stan_Smith_Recon_Blanco_H06185_04_standard.jpg",
+        "precio": 649
+    },
+    {
+        "marca": "adidas",
+        "modelo": "PANTALÓN DE ENTRENAMIENTO ENTRADA 22",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/557ce1f14da44b268adbadbe00d06f9c_9366/Pantalon_de_Entrenamiento_Entrada_22_Negro_HC0332_21_model.jpg",
+        "precio": 75
+    },
+    {
+        "marca": "adidas",
+        "modelo": "PANTALÓN ESSENTIALS 3 TIRAS PIERNA CÓNICA",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ea2bca64e4e547ce8208a98100fddc99_9366/Pantalon_Essentials_3_Tiras_Pierna_Conica_Negro_DQ3093_01_laydown.jpg",
+        "precio": 139
+    },
+    {
+        "marca": "adidas",
+        "modelo": "POLERA DE FELPA CON CAPUCHA STUDIO LOUNGE",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a16ac52841cb455a8c7cae4a00fa5c54_9366/Polera_de_Felpa_con_Capucha_Studio_Lounge_Beige_HC5881_21_model.jpg",
+        "precio": 179
+    },
+    {
+        "marca": "adidas",
+        "modelo": "POLO ESSENTIALS TRIFOLIO",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/914c5b1199e24a609978af18011fb29f_9366/Polo_Essentials_Trifolio_Beige_IA4871_21_model.jpg",
+        "precio": 55
+    },
+    {
+        "marca": "adidas",
+        "modelo": "POLO ADICOLOR CONTEMPO",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8c1aef77e353438ba042ae80012711c7_9366/Polo_Adicolor_Contempo_Beige_HK2891_21_model.jpg",
+        "precio": 97
+    },
+    {
+        "marca": "adidas",
+        "modelo": "SHORTS TRAIN ESSENTIALS TEJIDOS",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/319fef38e124431580f5af6a00b41d9e_9366/Shorts_de_Entrenamiento_Train_Essentials_Tejidos_Verde_IC6980_01_laydown.jpg",
+        "precio": 90
+    },
+    {
+        "marca": "adidas",
+        "modelo": "STAN SMITH",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f86168171d2a4644a8eeac1e00f52f85_9366/Zapatillas_Stan_Smith_Blanco_FX5502_04_standard.jpg",
+        "precio": 359
+    },
+    {
+        "marca": "adidas",
+        "modelo": "Y-3 AJATU COURT LOW",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7ebf1720d3f343e69fd9aecc01399b2c_9366/Y-3_AJATU_COURT_LOW_Negro_HQ5964_04_standard.jpg",
+        "precio": 1199
+    },
+    {
+        "marca": "adidas",
+        "modelo": "SAMBA OG",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5ec3dbc8ed4e4d958b0faedf00fd3bb1_9366/Zapatillas_Samba_OG_Blanco_HP7904_01_standard.jpg",
+        "precio": 299
+    },
+    {
+        "marca": "adidas",
+        "modelo": "STAN SMITH RECON",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a6fb6634be25426b9cb0af5700b58615_9366/Zapatillas_Stan_Smith_Recon_Blanco_H06185_04_standard.jpg",
+        "precio": 649
+    },
+    {
+        "marca": "adidas",
+        "modelo": "PANTALÓN DE ENTRENAMIENTO ENTRADA 22",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/557ce1f14da44b268adbadbe00d06f9c_9366/Pantalon_de_Entrenamiento_Entrada_22_Negro_HC0332_21_model.jpg",
+        "precio": 75
+    },
+    {
+        "marca": "adidas",
+        "modelo": "PANTALÓN ESSENTIALS 3 TIRAS PIERNA CÓNICA",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ea2bca64e4e547ce8208a98100fddc99_9366/Pantalon_Essentials_3_Tiras_Pierna_Conica_Negro_DQ3093_01_laydown.jpg",
+        "precio": 139
+    },
+    {
+        "marca": "adidas",
+        "modelo": "POLERA DE FELPA CON CAPUCHA STUDIO LOUNGE",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a16ac52841cb455a8c7cae4a00fa5c54_9366/Polera_de_Felpa_con_Capucha_Studio_Lounge_Beige_HC5881_21_model.jpg",
+        "precio": 179
+    },
+    {
+        "marca": "adidas",
+        "modelo": "POLO ESSENTIALS TRIFOLIO",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/914c5b1199e24a609978af18011fb29f_9366/Polo_Essentials_Trifolio_Beige_IA4871_21_model.jpg",
+        "precio": 55
+    },
+    {
+        "marca": "adidas",
+        "modelo": "POLO ADICOLOR CONTEMPO",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8c1aef77e353438ba042ae80012711c7_9366/Polo_Adicolor_Contempo_Beige_HK2891_21_model.jpg",
+        "precio": 97
+    },
+    {
+        "marca": "adidas",
+        "modelo": "SHORTS TRAIN ESSENTIALS TEJIDOS",
+        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/319fef38e124431580f5af6a00b41d9e_9366/Shorts_de_Entrenamiento_Train_Essentials_Tejidos_Verde_IC6980_01_laydown.jpg",
+        "precio": 900
+    }
+]

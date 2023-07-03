@@ -1,0 +1,27 @@
+.ocultar{
+    display: none;
+}
+.mostrar{
+    display: block;
+    text-align:justify;
+    margin: 50px;
+    width: 400px;
+}
+#mostrar{
+    width: 220px;
+    height: 220px;
+    background-color: #a7a77e;
+    border-radius: 20px;
+    padding: 10px;
+}
+.resultado{
+    display: flex;
+    flex-direction: row;
+}
+.producto{
+   text-align: center;
+   padding-left: 100px;
+   background-color: aliceblue;
+   margin: 5px;
+   text-align: center;
+}
