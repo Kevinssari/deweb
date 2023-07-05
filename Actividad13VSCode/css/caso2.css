@@ -1,0 +1,21 @@
+h1{
+    text-align:left;
+    color: black;
+    font-size:38px;
+}
+body{
+    background-color: #FA8072;
+}
+.boton{
+    bottom: 20px;
+    margin: 30px;
+    padding: 5px;
+    border: 1px solid;
+    border-radius: 15px ;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    background-color: #DDA0DD;
+    text-transform: uppercase;
+    box-shadow:3px 3px 5px rgb(46, 26, 26);
+}

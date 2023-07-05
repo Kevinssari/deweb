@@ -1,0 +1,26 @@
+@font-face {
+    font-family: kid;
+    src: url('/fuentes/kid.ttf');
+}
+.caja{
+    background-color: #F0F8FF;
+    border: 1px solid;
+    border-radius: 20px ;
+    width: 800px;
+    height: 200px;
+    margin: 50px auto;
+    padding: 50px ;
+    box-shadow: 30px 10px 80px inset  #B0C4DE;
+    }
+    h1{
+        text-align: center;
+        text-shadow: -5px -5px 5px #778899;
+        font-size:38px;
+        text-transform: uppercase;
+    }
+    body{
+        font-size:20px;
+        text-align: justify;
+        font-family: kid,cursive;
+        background-color: #F5F5DC;
+    }
