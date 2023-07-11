@@ -1,0 +1,70 @@
+.ocultar {
+    display: none;
+}
+
+.mostrar {
+    display: block;
+}
+
+#mostrar {
+    width: 220px;
+    height: 220px;
+    background-color: #a7a77e;
+    border-radius: 20px;
+    padding: 30px;
+}
+
+.imgProducto {
+    height: 100px;
+}
+
+.resultado {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.producto {
+    text-align: center;
+    background-color: #f0f8ff;
+    margin: 1%;
+    border-color: black;
+    border-radius: 20px;
+    padding: 40px;
+    align-items: center;
+}
+.verDatosEnPantalla{
+    background-color: #a7a77e;
+    margin: 30px;
+    border-radius: 60px;
+    font-size: x-large
+    
+}
+.comentario {
+    background-color: #FFFFE0;
+    box-shadow: 30px 10px 80px  #FFEFD5;
+    position: static;
+    border: 3px solid #000000;
+    padding: 30px;
+    text-align: center;
+    margin: 20px;
+}
+
+.titulo1 {
+    text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:  black;
+    text-align: center;
+    text-shadow: -5px -5px 5px #778899;
+    font-size:48px
+
+}
+
+.botonpublicar {
+    width: 100px;
+
+}
+
+.botonpublicar:hover {
+    background-color: #F5F5DC;
+}
