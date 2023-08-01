@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: black;
+}
+
+header p {
+    color: white;
+    padding: 40px;
+    text-shadow: 30px 10px 5px gray;
+    padding: 30px;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-size: 40px;
+}
+
+.titulo {
+    margin-top: 20px;
+    margin-left: 26em;
+    width: 59%;
+    height: 50%;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 50px;
+    text-decoration: underline;
+    padding: 20px;
+}
+
+.contenido {
+    font-size: 20px;    
+    text-align: justify;
+    margin: 3px;
+    display: flex;
+    margin-left: 20em;
+
+}
+
+section {
+    align-items: center;
+    padding: 40px;
+    width: 24%;
+}
+
+h2 {
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    text-align: left;
+    text-transform: uppercase;
+    text-decoration: underline;
+
+}
+.contacto{
+    margin-top: 30px;
+
+}
+aside {
+    align-items: center;
+    width: 40%;
+    display: flex;
+    margin-left: 4px;
+    padding: 20px;
+    text-align: justify;
+    background-color: #CCC;
+
+}
+.lista1 {
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    text-align: left;
+    list-style-type: square;
+ 
+}
+.lista2 {
+    font-size: 20px;
+    padding: 40px;
+    text-align: left;
+    list-style-type: square;
+}
+
+.lista3 {
+    font-size: 20px;
+    padding: 40px;
+    text-align: left;
+    list-style-type: square;
+}

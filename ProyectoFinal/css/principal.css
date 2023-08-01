@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: black;
+}
+
+header h1 {
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    text-shadow: 30px 10px 5px gray;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline-flex;
+    padding: 5px;
+    background-color: rgba(255, 0, 123, 0.518);
+    border-radius: 8px;
+    border: solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    transition-duration: 1000ms;
+    transition-property: all;
+}
+
+nav ul li a {
+    text-decoration-line: none;
+    color: white;
+    padding: 7px;
+    width: 16em;
+}
+
+nav li:hover {
+    background-color: #FFE4E1;
+    color: #494949;
+    opacity: 0.8;
+    color: black;
+}
+
+.menu {
+
+    border: solid black;
+    padding: 5px;
+    background-color: thistle;
+    text-align: center;
+}
+
+.contenido {
+    display: flex;
+    margin: 20px;
+    height: 100%;
+}
+
+section {
+    align-items: center;
+    padding: 40px;
+    border-left: solid;
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+  
+}
+
+.docente {
+    padding: 40px;
+    border-radius: 70px;
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+
+.lista1 {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    list-style-type: square;
+
+}
+.año{
+    padding: 40px;
+    font-size: 50px;
+    text-align: center;
+}
+.seccion {
+    margin-left: 20px;
+    padding: 70px;
+    text-align: justify;
+    width: 20%;
+    border-right: solid;
+}
+h3{
+    text-align: center;
+    text-transform: uppercase;
+    padding: 40px;
+}
+
+aside {
+    align-items: center;
+    display: flex;
+    margin-left: 20px;
+    padding: 20px;
+    text-align: justify;
+  
+
+}
+
+.lista2 {
+    padding: 40px;
+    text-align: left;
+    list-style-type: square;
+}
+
+.lista3 {
+
+    padding: 40px;
+    text-align: left;
+    list-style-type: square;
+}
+
+.seccion2 {
+    margin-left: 20px;
+    padding: 70px;
+    border-right: solid;
+    text-align: justify;
+    width: 20%;
+}
+
+footer {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    color: white;
+    padding: 1px;
+}
+
+footer p {
+    text-align: center;
+    padding: 10px;
+}
+h4{
+    text-align: center;
+    text-transform: uppercase;
+    padding: 40px;
+}
+.lista4{
+    text-align: center;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+   
+}
+.enlace{
+    text-align: center;
+    text-decoration: underline none;
+    background-color: black;
+    color: white;
+    margin-bottom: 20px;
+    text-decoration: none;
+   
+}
