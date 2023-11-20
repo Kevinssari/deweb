@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: hsl(30, 38%, 92%);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+
+
+}
+
+.container {
+    display: grid;
+    max-width: 375px;
+}
+
+.image-container img {
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    height: 14.7rem;
+    border-radius: 10px 10px 0 0;
+}
+
+.card-content {
+    background-color: hsl(0, 0%, 100%);
+    padding: 1rem;
+    border-radius: 0 0 10px 10px;
+}
+
+.prices .price {
+    font-size: x-large;
+    font-weight: 700;
+    color: hsl(158, 36%, 37%);
+
+}
+
+.prices .previous-price {
+    font-size: 0.85rem;
+    color: hsl(228, 12%, 48%);
+    text-decoration: line-through;
+}
+
+button {
+    font-weight: bolder;
+    background-color: hsl(158, 36%, 37%);
+    color: hsl(0, 0%, 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: space-between;
+    gap: 1rem;
+    height: 40px;
+    width: 100%;
+    border-radius: 5px;
+    border-style: none;
+}
+
+main {
+    margin: 1rem;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: hsl(158, 36%, 37%);
+}
+
+button img {
+    height: 0.9rem;
+}
+
+.creator {
+    font-size: .825rem;
+    line-height: 1.4rem;
+    color: hsl(228, 12%, 48%);
+
+}
+
+.heading {
+    font-family: var(--Font-M);
+    font-size: 0.7rem;
+    letter-spacing: 0.4rem;
+    color: hsl(228, 12%, 48%);
+}
+
+.subtitulo,
+p,
+.heading {
+    margin: .9rem;
+}
+
+.subtitulo {
+    font-family: var(--Font-F);
+    line-height: 2.4rem;
+    font-size: 2.5rem;
+    font-weight: bolder;
+    color: hsl(212, 21%, 14%);
+}
+
+.attribution {
+    font-size: 0.7rem;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.attribution a {
+    font-size: larger;
+    font-style: italic;
+    text-decoration: none;
+    font-weight: bold;
+    color: hsl(192, 85%, 34%);
+}
+
+@media (min-width: 600px) {
+    .container {
+        min-width: 600px;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .heading {
+        letter-spacing: 0.8rem;
+    }
+
+    .card-content {
+        border-radius: 0 10px 10px 0;
+    }
+
+    .image-container img {
+        height: 370px;
+        border-radius: 10px 0 0 10px;
+    }
+}
